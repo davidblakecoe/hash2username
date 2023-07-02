@@ -1,3 +1,8 @@
+#This was a quick and dirty throw together to get a job done
+#You need to pip install pandas or pip3 install pandas
+#ntds = username,hash
+#cracked = hash,password
+
 import pandas as pd
 import pandas as pandasForSortingCSV
 #open .csv files for processing
